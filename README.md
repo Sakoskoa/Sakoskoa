@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakoskoa&label=Profile%20views&color=0e75b6&style=flat" alt="sakoskoa" /> </p>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://sakoskoa.github.io/portfolio/](https://sakoskoa.github.io/portfolio/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [[https://sakoskoa.github.io/portfolio/](https://sakoskoa.github.io/portfolio/)](https://github.com/Sakoskoa?tab=repositories)
 
 - 📫 E-mail **samuel.machado.amaral@gmail.com**
 
